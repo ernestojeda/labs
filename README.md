@@ -9,6 +9,7 @@ git clone https://github.com/rsdmike/labs.git
 You must also use the customized docker-compose in the nightly build here: https://github.com/rsdmike/developer-scripts.git on the labs branch
 ```
 git clone https://github.com/rsdmike/developer-scripts.git
+cd developer-scripts
 git checkout labs
 ```
 To bring up EdgeX use:
